@@ -1,0 +1,25 @@
+Tài lịu chính thì vẫn là mấy slide của thầy (học cỡ nữa kỳ thì thầy gửi hoặc k thì xin sớm thầy cũng cho)
+Cơ mà chú ý nghe giảng kèm take note trong qá trình học. Kiến thức này theo luôn trong ngành đừng chê, ban đầu khó nuốt chứ sau này làm mình làm mẫy đỡn đần được nhiều việc
+####
+1. https://hoadm.net/co-so-du-lieu/kien-thuc-bo-tro/
+Trang này bổ trợ kiến thức, kèm lời giải các thứ, đọc hết thì cũng nắm sơ sơ cách làm bài tập.
+
+2. https://thinhnotes.com/chuyen-nghe-ba/erd-la-gi/
+Blog này phù hợp nếu theo lộ trình Business Analyst (Phân tích dữ liệu kinkdoank) bấm zô đây đọc hết,
+còn không tìm cái cần đọc là được. Còn nếu k biết tìm gì để đọc thì đọc đại cho đỡ cháng.
+
+3. https://sites.google.com/site/nhatnamcpt/thu-thuat-tin-hoc-1/lap-trinh/csdl-nang-cao
+Bài tập csdl nâng cao, đợt ôn thi hỏng bik ma trận đề như nào nên mò mẫm tới mấy cái advance, rãnh thì ngó qua miếng
+
+4. https://cuuduongthancong.com/s/thiet-ke-va-quan-tri-co-so-du-lieu
+Tài liệu về môn này, đọc thêm lụm lặt từ ĐH Bách khoa (gãnh thì ngó qa, khum thì thoi)
+
+5. https://dbdiagram.io/home
+Trang web tạo ERD, gõ gõ vài dòng là nó show mối qan hệ.
+
+#### Một số file lặt vặt khác, chủ yếu là đề thi lời giải:
+a. http://dulieu.tailieuhoctap.vn/books/cong-nghe-thong-tin/co-so-du-lieu/file_goc_782979.pdf
+
+b. https://viblo.asia/p/mo-hinh-quan-he-thuc-the-entity-relationship-model-oOVlYEenl8W
+
+https://123docz.net/document/9176574-de-thi-co-dap-an-mon-thiet-ke-csdl.htm
